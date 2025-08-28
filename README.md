@@ -4,3 +4,5 @@ Projeto para exemplificar o Git e GitHub
 # Tecnologias
 - {} HTML5
 - {} CSS3
+- {} Git
+- {} GitHub
